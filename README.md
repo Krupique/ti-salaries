@@ -9,3 +9,12 @@ Nexts steps:
 * Criação da App Flask, FastAPI, Gunicorn;
 
 * Colocar em Produção utilizando AWS EC2;
+
+---
+* ~~Data extraction;~~
+* Exploratory analysis (In progress);
+* Model creation (Use MLflow);
+
+* Creation of the Flask, FastAPI, Gunicorn App;
+
+* Putting into Production using AWS EC2;
