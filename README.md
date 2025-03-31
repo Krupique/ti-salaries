@@ -27,6 +27,19 @@ Nexts steps:
 * ~~Data extraction;~~
 * Exploratory analysis (In progress);
 * Model creation (Use MLflow);
+  * Problem definition;
+  * Splitting data into training and testing;
+  * Dealing with outliers;
+  * Handling missing data;
+  * Data transformation;
+  * Attribute selection;
+  * Creating attributes;
+  * Validating the transformations of training, testing and validation data;
+  * Class balancing;
+  * First modeling;
+  * Testing data with different models;
+  * Adjusting hyperparameters;
+  * Testing and evaluating the model;
 
 * Creation of the Flask, FastAPI, Gunicorn App;
 
