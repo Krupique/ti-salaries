@@ -5,6 +5,19 @@ Nexts steps:
 * ~~Extração dos dados;~~
 * Análise exploratória (Em andamento);
 * Criação do modelo (Utilizar o MLflow);
+    * Definição do problema;
+    * Dividir os dados em treino e teste;
+    * Lidar com outliers;
+    * Tratar dados ausentes;
+    * Transformação dos dados;
+    * Seleção de atributos;
+    * Criar atributos;
+    * Validação das transformações dos dados de treino, teste e validação;
+    * Balanceamento de classe;
+    * Primeira modelagem;
+    * Testar dados com diferentes modelos;
+    * Ajustar hiperparâmetros;
+    * Testar e avaliar o modelo;
 
 * Criação da App Flask, FastAPI, Gunicorn;
 
@@ -18,3 +31,6 @@ Nexts steps:
 * Creation of the Flask, FastAPI, Gunicorn App;
 
 * Putting into Production using AWS EC2;
+
+---
+Useful Link: [Step by step for a machine learning project](https://github.com/Krupique/mlops-projects/tree/main/00-tips_ml_solution)
